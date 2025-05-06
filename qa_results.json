@@ -1,0 +1,810 @@
+[
+  {
+    "id": 2,
+    "question": "What are the foundational principles of the Federative Republic of Brazil?",
+    "answer": "Sovereignty, citizenship, dignity of the human person, social values of labour and of the free enterprise, political pluralism.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "- 首先，问题要求列出巴西联邦共和国的基本原则，文本中明确列出了这些原则，包括主权、公民权、人的尊严、劳动和自由企业的社会价值、政治多元化。\n- 答案中提到的所有原则都可以在文本中找到对应内容，因此相关性分数为1。\n- 准确性分数也为1，因为答案中提到的所有原则都准确地反映了文本中列出的基本原则。"
+  },
+  {
+    "id": 3,
+    "question": "什么是联邦政府的三大权力？",
+    "answer": "立法权、行政权和司法权。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了联邦政府的三大权力是立法权、行政权和司法权，这与文本中提到的\"The Legislative, the Executive and the Judicial\"完全一致，因此准确性分数为1。相关性分数也为1，因为答案中提到的三大权力与文本中提到的三大权力完全一致，没有任何偏差。"
+  },
+  {
+    "id": 4,
+    "question": "What are the fundamental objectives of the Federative Republic of Brazil?",
+    "answer": "The fundamental objectives are to build a free, just and solidary society, guarantee national development, eradicate poverty and substandard living conditions, reduce social and regional inequalities, and promote the well-being of all without discrimination.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确地提到了文本中列出的所有基本目标，没有遗漏或添加任何内容。因此，准确性分数为1。相关性分数也为1，因为答案完全符合问题所询问的内容，与文本内容高度相关。"
+  },
+  {
+    "id": 5,
+    "question": "What are the principles that govern the international relations of the Federative Republic of Brazil?",
+    "answer": "The principles are national independence, prevalence of human rights, self-determination of the peoples, non-intervention, equality among the states, defense of peace, peaceful settlement of conflicts, repudiation of terrorism and racism, cooperation among peoples for the progress of mankind, and granting of political asylum.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "The answer provided matches exactly with the principles listed in the text regarding the international relations of the Federative Republic of Brazil. The relevance score is high because the answer directly addresses the question asked and is highly relevant to the text. The GPT confidence score is also high because the answer is a verbatim extraction from the text, demonstrating a high level of accuracy."
+  },
+  {
+    "id": 6,
+    "question": "根据巴西《宪法》规定，人们在法律面前有哪些基本权利和保障？",
+    "answer": "人们在法律面前享有生命、自由、平等、安全和财产的不可侵犯权利，包括男女平等、言论自由、信仰自由、隐私权等基本权利和保障。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的基本权利和保障与文本中列举的内容完全一致，涵盖了生命、自由、平等、安全、财产、男女平等、言论自由、信仰自由、隐私权等基本权利和保障。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 7,
+    "question": "哪些是根据宪法规定的社会权利？",
+    "answer": "教育、健康、食品、工作、住房、休闲、安全、社会保障、保护母性和儿童、帮助贫困人口。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "首先，问题问到了根据宪法规定的社会权利是哪些，文本中明确列举了教育、健康、食品、工作、住房、休闲、安全、社会保障、保护母性和儿童、帮助贫困人口这些社会权利。因此，答案与文本内容高度相关且忠实，所以相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 8,
+    "question": "What are some of the rights of urban and rural workers as outlined in the Constitution of the Federative Republic of Brazil?",
+    "answer": "Some of the rights include protection against arbitrary dismissal, unemployment insurance, minimum wage, salary floor, irreducibility of wages, paid weekly leave, maternity leave, retirement pension, and prohibition of discrimination in wages and hiring criteria.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "答案中提到的权利确实在文本中有详细描述，包括保护免受任意解雇、失业保险、最低工资、工资底线、工资不可降低、带薪周休假、产假、退休金、禁止在工资和招聘标准中歧视等内容。虽然答案没有列出所有权利，但提到的权利在文本中都有对应的描述，因此相关性得分为1。准确性得分为0.9是因为答案中提到的内容基本忠实于文本中的描述，但并未完全列出所有权利，略有遗漏。"
+  },
+  {
+    "id": 9,
+    "question": "在建立工会方面，国家是否需要授权？",
+    "answer": "法律可能会要求工会在成立时需进行注册，并且国家禁止干预和干涉工会事务。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容。根据文本内容，国家可能会要求工会在成立时进行注册，但不需要授权。国家禁止干预和干涉工会事务。因此，答案在相关性和准确性上都得分较高。"
+  },
+  {
+    "id": 10,
+    "question": "谁有决定罢工合法性和被捍卫的利益的权限？",
+    "answer": "工人有这个权限。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "在给定的文本中明确提到了工人有决定罢工合法性和被捍卫的利益的权限，因此答案与文本内容高度相关且忠实。相关性分数为1是因为答案直接回答了问题，准确性分数为1是因为答案完全符合文本内容。"
+  },
+  {
+    "id": 11,
+    "question": "在政府机构的决策机构中，如何确保工人和雇主的参与？",
+    "answer": "通过确保他们在讨论和解决与其专业或社会保障利益相关的事务时参与进来。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确地回答了问题，并且与文本内容完全相关。文本中明确提到了确保工人和雇主在政府机构的决策机构中参与讨论和解决与其专业或社会保障利益相关的事务，而答案也准确地回答了问题，说明了通过确保工人和雇主在讨论和解决这些事务时参与进来。因此，相关性分数和准确性分数都是1。"
+  },
+  {
+    "id": 12,
+    "question": "What is the purpose of electing a representative of the employees in companies with more than 200 employees?",
+    "answer": "To further direct negotiations with the employers.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案与文本内容完全一致，且直接回答了问题中询问的目的。答案中提到了在公司中选举员工代表的目的是为了进一步与雇主进行直接谈判，与文本中提到的目的完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 13,
+    "question": "根据巴西国籍法，哪些人可以被认定为巴西人？",
+    "answer": "根据巴西国籍法，可以被认定为巴西人的包括出生在巴西的人、在海外出生但父母一方为巴西公民的人，以及获得巴西国籍的人。",
+    "relevance_score": 0.9,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "在给定的文本中，明确列出了根据巴西国籍法可以被认定为巴西人的条件，包括出生在巴西、在海外出生但父母一方为巴西公民、以及获得巴西国籍的人。答案准确地回答了问题，并且与文本内容高度相关。因此，相关性分数和准确性分数都较高。计算方式是通过对比答案中提到的条件与文本中列出的条件，以及答案是否完整和准确地回答了问题来确定相关性和准确性分数。"
+  },
+  {
+    "id": 14,
+    "question": "What is the official language of the Federative Republic of Brazil?",
+    "answer": "Portuguese.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了葡萄牙语是巴西联邦共和国的官方语言，而给定的文本也明确提到了\"Portuguese is the official language of the Federative Republic of Brazil.\"，因此答案与文本内容高度相关且忠实。因此相关性分数和准确性分数都为1.0。"
+  },
+  {
+    "id": 15,
+    "question": "根据巴西联邦宪法规定，哪些人可以参与选举投票？",
+    "answer": "巴西国籍、年满18岁、具有全部政治权利、已在选民登记簿上注册、在选区注册有选民住所、在政党中有会员资格。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "根据文本内容，巴西联邦宪法规定参与选举投票的人必须具备以下条件：巴西国籍、年满18岁、具有全部政治权利、已在选民登记簿上注册、在选区注册有选民住所、在政党中有会员资格。答案完全符合文本内容，相关性和准确性得分都为1。"
+  },
+  {
+    "id": 16,
+    "question": "哪些情况下可以剥夺或暂停政治权利？",
+    "answer": "根据上述内容，可以剥夺或暂停政治权利的情况包括：（1）取消入籍；（2）绝对民事能力；（3）刑事判决生效期间；（4）拒绝履行法定义务或提供替代服务；（5）行政不端行为。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的情况与文本中列举的剥夺或暂停政治权利的情况完全一致，因此相关性分数和准确性分数都为1。计算方式是通过比对答案中列举的情况与文本中列举的情况，确认它们是否一致。"
+  },
+  {
+    "id": 17,
+    "question": "根据1993年的《CA第4号法案》，改变选举程序的法律何时生效？对什么情况不适用？",
+    "answer": "该法律将于其发布日期生效，不适用于其生效后一年内进行的选举。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中的内容完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 18,
+    "question": "政党在何种条件下可以自由创建、合并和消亡？",
+    "answer": "政党可以在遵守国家主权、民主制度、政党多元化、个人基本权利的前提下自由创建、合并和消亡。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，提到了政党可以在遵守国家主权、民主制度、政党多元化、个人基本权利的前提下自由创建、合并和消亡。这些条件在文本中都有明确提及，因此答案的相关性和准确性都非常高。"
+  },
+  {
+    "id": 19,
+    "question": "什么是巴西联邦共和国的政治和行政组织包括哪些主体？",
+    "answer": "巴西联邦共和国的政治和行政组织包括联邦、各州、联邦区、以及自治市镇。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 0.95,
+    "calculate_method": "首先，问题问到巴西联邦共和国的政治和行政组织包括哪些主体，答案中提到的内容正好在文本中有对应的部分，包括了联邦、各州、联邦区、以及自治市镇。因此答案与问题的相关性非常高，得分为1。\n\n其次，根据GPT模型对答案的认知程度，我们可以看到答案和原文的内容高度一致，没有出现偏离或错误的情况，因此在准确性上也有很高的分数，我给出0.95的评分。"
+  },
+  {
+    "id": 20,
+    "question": "哪些机构被禁止建立宗教教派或教堂，以及补贴它们？",
+    "answer": "联邦政府、各州、联邦区和市政府。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "在文本中明确提到，联邦政府、各州、联邦区和市政府被禁止建立宗教教派或教堂，以及补贴它们。因此，答案与文本内容高度相关且忠实。Relevance score的计算方式是根据答案是否与文本中提到的内容一致来评定，而GPT confidence score的计算方式是根据GPT模型对答案的自信程度来评定。"
+  },
+  {
+    "id": 21,
+    "question": "According to the Constitution of the Federative Republic of Brazil, what are some examples of property that belong to the Union?",
+    "answer": "Some examples of property that belong to the Union include the territorial sea, natural resources of the continental shelf, mineral resources, and lands traditionally occupied by the Indians.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "- 相关性分数计算方式：首先，问题要求提供一些属于联邦共和国的财产的例子。在文本中，列举了一系列属于联邦的财产，包括领海、大陆架的自然资源、矿产资源以及传统上由印第安人占据的土地等。答案中提到了这些例子，与问题要求的内容高度相关。\n- 准确性分数计算方式：答案中列举的财产例子与文本中提到的内容完全一致，没有出现错误或歪曲。因此，准确性分数为1。"
+  },
+  {
+    "id": 22,
+    "question": "根据上述内容，联邦共和国巴西的组织结构包括哪些方面？",
+    "answer": "联邦共和国巴西的组织结构包括维护外交关系、宣战和和平、国防保障、货币发行、管理外汇储备、运营通讯服务、组织司法权力以及其他公共服务等方面。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了文本中列举的联邦共和国巴西的组织结构的各个方面，包括维护外交关系、宣战和和平、国防保障、货币发行、管理外汇储备、运营通讯服务、组织司法权力等内容，与文本内容完全相关且忠实。因此，相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 23,
+    "question": "What are some of the exclusive powers that the Union has the authority to legislate on?",
+    "answer": "The Union has the exclusive power to legislate on civil, commercial, criminal, procedural, electoral, agrarian, maritime, aeronautical, space and labour law, as well as expropriation, civil and military requisitioning, waters, energy, informatics, telecommunications, postal service, monetary systems, credit policies, foreign trade, transportation policy, judicial organization, social security, education, nuclear activities, territorial defense, and commercial advertising.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中列举了文本中提到的所有独占权力，与文本内容完全相关且准确。"
+  },
+  {
+    "id": 24,
+    "question": "哪些权力是联邦、各州、联邦区和市政府共同具有的？",
+    "answer": "确保宪法、法律和民主制度的尊重；提供卫生和公共援助；保护和维护残障人士的权益；保护具有历史、艺术或文化价值的文件、作品和其他资产；防止艺术品和其他具有历史、艺术和文化价值的资产被带出国家、破坏或丧失原有特征；提供接触文化、教育和科学的途径；保护环境并打击各种形式的污染；保护森林、动植物；促进农业和组织食品供应；促进房屋建设项目和改善住房和基本卫生条件；打击贫困原因和导致不良生活条件的因素，促进弱势人口的社会融合；登记、监控和控制在其领土内研究和开采水资源和矿产资源的权利；建立和执行交通安全教育政策。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中列举了文本中提到的所有权力，与文本内容完全相关且准确。因此，相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 25,
+    "question": "谁有权在税收、金融、经济、城市规划等领域立法？",
+    "answer": "联邦政府、各州和联邦区均有权在这些领域同时立法。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "在文本中明确提到，联邦政府、各州和联邦区有权在税收、金融、经济和城市规划等领域同时立法。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 26,
+    "question": "根据《CA No. 5, 1995》，各州如何通过什么方式组织和治理？",
+    "answer": "各州根据本宪法的原则，通过制定的宪法和法律来组织和治理。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了根据本宪法的原则，通过制定的宪法和法律来组织和治理各州，这与文本中提到的各州通过宪法和法律来组织和治理是完全一致的。因此，答案与文本内容的相关性非常高，得分为1。同时，答案也完全忠实于文本内容，没有出现任何错误或歪曲，因此得分也为1。"
+  },
+  {
+    "id": 27,
+    "question": "哪些是国家的财产？",
+    "answer": "国家的财产包括但不限于：I – 地表或地下水域，流动的、涌出的或者沉积的水，但不包括联邦政府依法进行的工作造成的水；II – 海洋和沿海岛屿内属于国家领土范围内的区域，不包括属于联邦政府、市政府或第三方的部分；III – 不属于联邦政府的河流和湖泊的岛屿；IV – 不被占用的土地，不包括属于联邦政府所有的土地。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中列举的国家财产的具体内容完全一致，包括地表或地下水域、海洋和沿海岛屿、河流和湖泊的岛屿、不被占用的土地等。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 28,
+    "question": "State Deputies in the Legislative Assembly of Brazil are elected for how many years?",
+    "answer": "Four years.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "The answer \"Four years\" can be found directly in the text in Paragraph 1, which states \"The term of office of the State Deputies shall be four years.\" Therefore, the relevance score is 1. The GPT-3 confidence score is also 1 because the answer is a direct and accurate reflection of the information provided in the text."
+  },
+  {
+    "id": 29,
+    "question": "什么时候举行州长和副州长的选举？",
+    "answer": "州长和副州长的选举将在前任任期结束前一年的十月份的第一个星期日举行第一轮选举，在同一年的十月份的最后一个星期日举行第二轮选举。他们将在接下来的年份的一月1日就任。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确地描述了文本中关于州长和副州长选举时间的规定，与文本内容高度相关且忠实。计算方法是通过对比答案中提到的选举时间规定与文本中的具体规定进行匹配，发现答案完全符合文本内容，因此得出相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 30,
+    "question": "根据巴西宪法规定，市政府的有关事项需要经过怎样的程序才能通过？",
+    "answer": "市政府的有关事项需要经过组织法的两次投票，并且需间隔至少十天，由市议会三分之二的成员批准通过。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "根据文本内容，市政府的有关事项需要经过组织法的两次投票，并且需间隔至少十天，由市议会三分之二的成员批准通过。这与问题中提到的巴西宪法规定的程序完全吻合，因此相关性分数和准确性分数都是1。"
+  },
+  {
+    "id": 31,
+    "question": "哪些权力赋予了自治市对活动领域的立法权？",
+    "answer": "自治市有权立法涉及本地利益的事项，以及在相关情况下对联邦和州的立法进行补充。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到自治市有权立法涉及本地利益的事项，以及在相关情况下对联邦和州的立法进行补充，这与文本中提到的自治市的权力完全吻合。因此，答案与问题的相关性非常高，且忠实于文本内容。"
+  },
+  {
+    "id": 32,
+    "question": "谁行使对市政的监督？",
+    "answer": "市议会通过外部控制和市行政部门的内部控制系统来行使对市政的监督。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案直接从文本中提取，与文本内容完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 33,
+    "question": "谁将负责管理位于联邦区的政府？",
+    "answer": "联邦区的政府将由立法议会负责管理。",
+    "relevance_score": 0.9,
+    "gpt_confidence_score": 0.8,
+    "calculate_method": "答案中提到联邦区的政府将由立法议会负责管理，与文本中提到的联邦区将由立法议会管理的内容高度相关。因此，相关性分数为0.9。准确性分数为0.8，因为答案提到了正确的管理机构，但并没有提及具体的条款或细节，略显笼统。"
+  },
+  {
+    "id": 34,
+    "question": "根据《宪法》，联邦领土的财务账目由谁审查？",
+    "answer": "联邦领土的财务账目应提交给国民大会，需先征得联邦审计法院的意见。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中明确提到根据《宪法》，联邦领土的财务账目应提交给国民大会，并需先征得联邦审计法院的意见，与文本内容完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 35,
+    "question": "Under what circumstances can the Union intervene in the states or in the Federal District according to the Constitution of the Federative Republic of Brazil?",
+    "answer": "The Union can intervene in the states or in the Federal District to maintain national integrity, repel foreign invasion or that of one unit of the Federation into another, put an end to serious jeopardy to public order, guarantee the free exercise of any of the powers of the units of the Federation, reorganize the finances of a unit of the Federation, provide for the enforcement of federal law, judicial order or decision, and ensure compliance with various constitutional principles.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全覆盖了问题中提到的情况，与文本内容高度相关且准确。答案中列举了根据《巴西联邦共和国宪法》可以让联邦政府干预州或联邦区的各种情况，包括维护国家完整性、驱逐外国入侵或联邦单位相互入侵、终结对公共秩序的严重威胁、保证各联邦单位权力的自由行使、重组联邦单位的财政、执行联邦法律、司法命令或决定，以及确保遵守各种宪法原则。这些情况与文本中提到的《巴西联邦共和国宪法》第42条中规定的情况完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 36,
+    "question": "在什么情况下，国家可以干预其市政机构或联邦领土上的市政机构？",
+    "answer": "国家可以在市政债务连续两年未支付、未按法律规定提供应有账目、教育、卫生和公共服务等领域的最低收入未得到利用、或者法院裁定确保遵守州宪法原则或执行法律、法院命令或裁决时干预市政机构。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了文本中规定的四种情况，说明答案与文本内容高度相关。准确性分数为1是因为答案完整准确地回答了问题，并没有歪曲或误解文本内容。"
+  },
+  {
+    "id": 37,
+    "question": "根据《CA No. 45, 2004》的规定，哪些情况下会发出干预令？",
+    "answer": "情况包括被迫或受阻的立法权或行政机关的请求，最高联邦法院的请求（如果对司法权施加强制），或者对司法命令或裁决不服从的情况。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，涵盖了根据《CA No. 45, 2004》发出干预令的所有情况，包括被迫或受阻的立法权或行政机关的请求，最高联邦法院的请求（如果对司法权施加强制），或者对司法命令或裁决不服从的情况。答案与问题中要求的内容完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 38,
+    "question": "哪些原则规定了政府实体和政府所有的实体在联盟、各州、联邦区和市政府权力下应当遵守的行为标准？",
+    "answer": "法律性、客观性、道德性、公开性和效率性。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的原则（法律性、客观性、道德性、公开性和效率性）确实在文本中有提到，而且答案与文本内容完全一致，因此相关性分数和准确性分数都是满分。"
+  },
+  {
+    "id": 39,
+    "question": "公职人员在担任选举职务时需要采取什么措施？",
+    "answer": "根据规定，公职人员在担任联邦、州或地区的选举职务时，需要离开原有的职务或工作。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "在文本中明确提到，公职人员在担任联邦、州或地区的选举职务时，需要离开原有的职务或工作。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 40,
+    "question": "哪些因素应该被考虑在内，以确定公务员的薪酬水平和薪酬体系？",
+    "answer": "薪水级别、职位的性质、责任水平、职位复杂性、就职要求以及每个职位的特定特征。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的因素包括薪水级别、职位的性质、责任水平、职位复杂性、就职要求以及每个职位的特定特征，这些因素在文本中都有明确提及。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 41,
+    "question": "根据规定，政府雇员的社会保障制度是如何进行的？",
+    "answer": "政府雇员的社会保障制度是基于公共实体、现任雇员、退休人员和领取养老金人员的共同基础贡献。包括了联邦、州、联邦区和市政府的雇员，以及其关联政府机构和基金会。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，准确地描述了政府雇员的社会保障制度是基于公共实体、现任雇员、退休人员和领取养老金人员的共同基础贡献。包括了联邦、州、联邦区和市政府的雇员，以及其关联政府机构和基金会。答案与问题的相关性非常高，且与文本内容一致。"
+  },
+  {
+    "id": 42,
+    "question": "怎样才能成为拥有终身任职权的公职人员？",
+    "answer": "通过公开入学考试被任命到有效职位后，实际服务三年后即可获得终身任职权。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了通过公开入学考试被任命到有效职位后，实际服务三年后即可获得终身任职权，这与文本中提到的内容完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 43,
+    "question": "军警和军队消防队的成员是哪些地方的军人？",
+    "answer": "他们是各州、联邦地区和领土的军人。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "在文本中明确提到，军警和军队消防队的成员是各州、联邦地区和领土的军人，与问题中的答案完全一致。因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 44,
+    "question": "根据巴西联邦宪法第52条规定，联邦政府可能如何协调行动以促进地区发展和减少区域不平等？",
+    "answer": "根据巴西联邦宪法第52条规定，联邦政府可以在同一社会和地缘经济复合体中协调行动，以促进地区发展和减少区域不平等。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，直接引用了巴西联邦宪法第52条的规定，没有出现任何错误或不相关的信息。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 45,
+    "question": "Who exercises the Legislative Power in Brazil?",
+    "answer": "The Legislative Power in Brazil is exercised by the National Congress, which is composed of the Chamber of Deputies and the Federal Senate.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "The answer provided matches the information in the text exactly, stating that the Legislative Power in Brazil is exercised by the National Congress, which is composed of the Chamber of Deputies and the Federal Senate. The relevance score is 1 because the answer directly addresses the question asked. The GPT confidence score is also 1 because the answer is a verbatim excerpt from the text, demonstrating high accuracy and fidelity to the original content."
+  },
+  {
+    "id": 46,
+    "question": "What is the composition of the Chamber of Deputies in Brazil?",
+    "answer": "The Chamber of Deputies in Brazil is composed of representatives of the people elected by the proportional system in each state, territory, and the Federal District.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "The answer provided is directly taken from the text and accurately reflects the composition of the Chamber of Deputies in Brazil as described in the text. The relevance score is 1 because the answer directly addresses the question asked. The GPT confidence score is also 1 because the answer is a verbatim excerpt from the text, showing high fidelity to the original content."
+  },
+  {
+    "id": 47,
+    "question": "How is the Federal Senate composed in terms of representatives?",
+    "answer": "The Federal Senate is composed of representatives of the states and of the Federal District, with each state and the Federal District electing three Senators for an eight-year term.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了Federal Senate由各州和联邦区的代表组成，每个州和联邦区选举三名参议员，任期为八年。这与文本中提到的内容完全一致，因此准确性分数为1。相关性分数也为1，因为答案完全回答了问题并且与文本内容相关度很高。"
+  },
+  {
+    "id": 48,
+    "question": "在国会中，决定是如何进行投票的？",
+    "answer": "在国会中，除非宪法另有规定，每院及其委员会的决定将由出席会议的成员的绝对多数投票决定。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了国会中决定的投票方式，与文本中提到的内容完全一致，因此相关性分数和准确性分数都为1。计算方式是通过比对答案中的内容与文本中的内容是否一致来确定相关性和准确性分数。"
+  },
+  {
+    "id": 49,
+    "question": "What matters fall within the competence of the National Congress in Brazil?",
+    "answer": "The National Congress in Brazil has the power to provide for matters such as taxation, budget planning, armed forces, development plans, national territory boundaries, public office creation, telecommunications, currency issuance, and compensation for Supreme Court Justices.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中列举的事项完全一致，涵盖了文本中提到的所有事项，因此相关性和准确性分数都为1。"
+  },
+  {
+    "id": 50,
+    "question": "国民大会在哪些情况下有权作出决定？",
+    "answer": "国民大会有权在涉及违反国家财产的国际条约、允许总统宣战与和平、允许外国军队经过或临时驻扎国土等情况下作出决定。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，涵盖了国民大会有权作出决定的所有情况，因此相关性分数和准确性分数都为1。答案中提到了涉及违反国家财产的国际条约、允许总统宣战与和平、允许外国军队经过或临时驻扎国土等情况，这些都是文本中明确规定国民大会有权作出决定的情况。因此答案与文本内容高度相关且准确。"
+  },
+  {
+    "id": 51,
+    "question": "哪些机构可以传唤国务部长或直接下属机构负责人提供信息？",
+    "answer": "参议院、众议院或其委员会。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，因为文本明确提到参议院、众议院或其委员会可以传唤国务部长或直接下属机构负责人提供信息。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 52,
+    "question": "Who has the exclusive competence to authorize legal proceedings against the President, Vice-President, and Ministers of State in Brazil?",
+    "answer": "The Chamber of Deputies.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "- 相关性分数计算方式：首先，问题中明确提到了“Who has the exclusive competence to authorize legal proceedings against the President, Vice-President, and Ministers of State in Brazil?”，而文本中也明确提到了这一点，即“to authorize, by two-thirds of its members, legal proceeding to be initiated against the President and the Vice-President of the Republic and the Ministers of State;”。因此，答案与问题之间的相关性非常高，得分为1。\n- 准确性分数计算方式：答案中提到的是“The Chamber of Deputies”，而文本中也明确指出“the competence of the Chamber of Deputies”来授权对总统、副总统和国务部长进行法律诉讼。因此，答案忠实于文本内容，得分为1。"
+  },
+  {
+    "id": 53,
+    "question": "联邦参议院具有哪些独有的职责？",
+    "answer": "联邦参议院具有审理总统、副总统、国防部长等罪行的审判权，审批法官、中央银行主席等人选的权利，以及其他一系列与债务、法律等相关的职责。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全覆盖了文本中提到的联邦参议院的独有职责，包括审理总统、副总统、国防部长等罪行的审判权，审批法官、中央银行主席等人选的权利，以及其他与债务、法律相关的职责。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 54,
+    "question": "What is the scope of the civil and criminal inviolability enjoyed by Deputies and Senators in Brazil?",
+    "answer": "Deputies and Senators in Brazil enjoy civil and criminal inviolability on account of their opinions, words, and votes.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了Deputies and Senators在巴西享有民事和刑事豁免权，这与文本中提到的内容完全一致。因此，答案与文本内容的相关性非常高。GPT-3生成的答案也完全忠实于文本内容，没有出现任何错误或歪曲。因此，准确性分数也为1。"
+  },
+  {
+    "id": 55,
+    "question": "哪些情况下国会议员和参议员不能签订或维持合同？",
+    "answer": "国会议员和参议员在颁发选举获胜证书后不能与公共法律实体、自治政府机构、公公司、混合所有权公司或公共事业公司签订或维持合同，除非该合同符合统一条款。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中明确提到了国会议员和参议员在颁发选举获胜证书后不能与公共法律实体、自治政府机构、公公司、混合所有权公司或公共事业公司签订或维持合同，除非该合同符合统一条款。这与问题中询问的情况下国会议员和参议员不能签订或维持合同完全吻合，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 56,
+    "question": "根据《RCA No. 6, 1994》，国会议员或参议员会因为哪些原因失去职位？",
+    "answer": "违反前述条例规定、与议会风度不符、缺席议事日的三分之一、政治权利丧失或暂停、选举法庭裁定、最终判决罪犯。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的原因与文本中关于国会议员或参议员失去职位的规定完全一致，涵盖了所有可能的情况。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 57,
+    "question": "Under what circumstances can a Deputy or Senator retain their office while holding another position or being on leave?",
+    "answer": "A Deputy or Senator can retain their office if they hold the office of Minister of State, Governor of a territory, Secretary of a state, of the Federal District, of a territory, of a state capital, or head of a temporary diplomatic mission, or if they are on leave of absence for reasons of illness or to attend to private matters without remuneration, as long as the absence does not exceed one hundred and twenty days per legislative session.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，涵盖了文本中关于Deputy或Senator在持有其他职位或休假期间保留其职位的所有情况。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 58,
+    "question": "根据巴西联邦共和国宪法规定，国民代表大会每年在何时举行会议？",
+    "answer": "国民代表大会每年从2月2日至7月17日，以及从8月1日至12月22日举行会议。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "根据文本内容，答案完全符合规定，因此相关性分数和准确性分数都为1。文本中明确规定了国民代表大会每年在联邦首都举行会议的时间段为从2月2日至7月17日，以及从8月1日至12月22日。"
+  },
+  {
+    "id": 59,
+    "question": "国家大会及其两院将如何确保各党派或议会团体在主任委员会和各委员会中得到比例代表？",
+    "answer": "在主任委员会和各委员会中，各党派或议会团体的比例代表将尽可能得到确保。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，直接引用了文本中确保各党派或议会团体在主任委员会和各委员会中得到比例代表的内容。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 60,
+    "question": "立法过程包括哪些准备工作？",
+    "answer": "包括修宪、补充法、普通法、委托法、临时措施、立法法令和决议的准备工作。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中列举了文本中提到的所有准备工作，与文本内容高度相关且准确。因此，相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 61,
+    "question": "什么条件下可以提议修订宪法？",
+    "answer": "1. 众议院或联邦参议院至少三分之一的议员提议；2. 总统提议；3. 联邦各州的立法机关中过半数表决通过。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，涵盖了提议修订宪法的所有条件，因此相关性分数和准确性分数都为1。答案中提到了三种条件：1. 众议院或联邦参议院至少三分之一的议员提议；2. 总统提议；3. 联邦各州的立法机关中过半数表决通过，这三种条件都在文本中有明确的描述。"
+  },
+  {
+    "id": 62,
+    "question": "谁有权力提出补充法和普通法的倡议？",
+    "answer": "巴西国会议员、参议员、总统、最高联邦法院、最高法院、共和国总检察长以及公民都有权利在宪法规定的方式和情况下提出补充法和普通法的倡议。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的权力提出补充法和普通法的倡议的主体包括巴西国会议员、参议员、总统、最高联邦法院、最高法院、共和国总检察长以及公民，这些主体在文本中都有明确提及。因此，答案与文本内容高度相关且忠实。Relevance_score的计算方式是检查答案中提到的主体是否在文本中有明确提及，如果有则得分为1，否则为0。gpt_confidence_score的计算方式是检查答案是否忠实于文本内容，如果答案中提到的内容与文本内容一致，则得分为1，否则为0。"
+  },
+  {
+    "id": 63,
+    "question": "根据巴西联邦共和国宪法规定，哪些情况下禁止采取临时措施？",
+    "answer": "根据巴西联邦共和国宪法规定，禁止采取临时措施的情况包括：处理国籍、公民权、政治权利、政党和选举法；刑法、刑事诉讼法、民事诉讼法；司法机构和检察机关的组织以及其成员的职业和保障等内容。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容中列出的禁止采取临时措施的情况，包括处理国籍、公民权、政治权利、政党和选举法；刑法、刑事诉讼法、民事诉讼法；司法机构和检察机关的组织以及其成员的职业和保障等内容。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 64,
+    "question": "在哪些情况下不允许增加支出提案？",
+    "answer": "在总统独家提议的法案中，除了第166条第3和第4款规定的情况以外；以及与众议院、联邦参议院、联邦法院和公共检察机构的行政服务组织相关的法案。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了在总统独家提议的法案中不允许增加支出提案，这与文本中的内容完全吻合。另外，答案还提到了与众议院、联邦参议院、联邦法院和公共检察机构的行政服务组织相关的法案也不允许增加支出提案，这也与文本中的内容一致。因此，答案与文本内容的相关性和准确性都非常高，得分都为1。"
+  },
+  {
+    "id": 65,
+    "question": "谁可以提出法案的讨论和表决？",
+    "answer": "总统、最高联邦法院和高级法院可以提出法案，并在众议院开始讨论和表决。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中清楚地指出了总统、最高联邦法院和高级法院可以提出法案，并在众议院开始讨论和表决，与文本内容完全相关。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 66,
+    "question": "什么情况下通过的法案会被另一议院进行审查？",
+    "answer": "只有在一院通过的法案才会被另一议院审查。",
+    "relevance_score": 0.8,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "答案中提到了只有在一院通过的法案才会被另一议院审查，这与文本中的内容相符。相关性分数是根据答案与问题之间的关联程度来评定，因为答案直接回答了问题，所以相关性分数较高。准确性分数是根据答案是否忠实于文本内容来评定，答案中的内容与文本中的规定完全一致，因此准确性分数也较高。"
+  },
+  {
+    "id": 67,
+    "question": "根据巴西联邦共和国宪法规定，如果总统否决一项法案，议会如何作出决定？",
+    "answer": "议会将在总统的否决之后的30天内召开联席会议，通过密票进行投票，只有绝对多数的国会议员同意否决的情况下，否决才会被推翻。",
+    "relevance_score": 0.8,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "答案中提到了根据巴西联邦共和国宪法规定，如果总统否决一项法案，议会将在总统的否决之后的30天内召开联席会议，通过密票进行投票，只有绝对多数的国会议员同意否决的情况下，否决才会被推翻。这与文本中关于总统否决法案后议会作出决定的内容相符，因此相关性分数为0.8。而答案中的内容忠实于文本中关于议会如何作出决定的规定，因此准确性分数为0.9。"
+  },
+  {
+    "id": 68,
+    "question": "在国会中被否决的法案可以在同一届立法会议期间重新提出吗？",
+    "answer": "可以，只要有国会两院绝对多数议员提议。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了被否决的法案可以在同一届立法会议期间重新提出，只要有国会两院绝对多数议员提议。这与文本中提到的内容完全一致，因此准确性分数为1。相关性分数也为1，因为答案直接回答了问题并且与文本内容完全相关。"
+  },
+  {
+    "id": 69,
+    "question": "Who is responsible for drawing up delegated laws in Brazil?",
+    "answer": "The President of the Republic is responsible for drawing up delegated laws in Brazil.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，因为文本明确指出在巴西，代表法律的制定由共和国总统负责。因此，答案与文本内容高度相关且准确。"
+  },
+  {
+    "id": 70,
+    "question": "How are supplementary laws approved in this system?",
+    "answer": "Supplementary laws are approved by absolute majority.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中直接引用了文本中的内容，与问题完全相关且准确。因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 71,
+    "question": "谁负责对联邦财务进行监督和审计？",
+    "answer": "国会通过外部控制和各权力内部控制系统负责对联邦财务进行监督和审计。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案直接引用了文本中的内容，对问题的回答非常相关且准确。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 72,
+    "question": "国家审计法院的主要职责有哪些？",
+    "answer": "审查总统每年的财务报表、评估直接和间接行政管理部门的资金、资产、数值，检查任何非法支出或不当帐目，并对负有责任的方采取法定处罚。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全覆盖了文本中关于国家审计法院主要职责的内容，包括审查总统的财务报表、评估直接和间接行政管理部门的资金、资产、数值，检查非法支出或不当帐目，并对负有责任的方采取法定处罚。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 73,
+    "question": "在哪种情况下，永久联席委员会可以要求相关政府机构解释未经授权的支出？",
+    "answer": "如果出现未经授权的支出迹象，即使是非计划性投资或非批准的补贴形式，永久联席委员会可以要求相关政府机构在五天内提供必要的解释。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "答案中提到了在出现未经授权的支出迹象时，永久联席委员会可以要求相关政府机构提供必要的解释，这与文本中提到的情况完全吻合。因此，答案与文本内容高度相关。准确性分数为0.9是因为答案中没有提到具体的条款和段落，但总体上是忠实于文本内容的。"
+  },
+  {
+    "id": 74,
+    "question": "哪些条件必须被满足才能被任命为联邦审计法院的法官？",
+    "answer": "年龄在35至65岁之间、道德廉洁、具有卓越的法律、会计、经济和财务或公共管理知识、拥有超过10年相关职务或专业实践经验。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的条件与文本中Paragraph 1中列出的条件完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 75,
+    "question": "谁负责维护联邦内部控制系统？",
+    "answer": "立法、行政和司法机关。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中明确提到了\"Legislative, Executive and Judicial Powers\"负责维护联邦内部控制系统，与文本内容完全相关且准确。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 76,
+    "question": "Audit Courts at different levels have specific rules and compositions, how many council members are there in the state Audit Courts according to the Constitution?",
+    "answer": "Seven council members.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案直接从文本中提取，与文本内容完全一致，相关性和准确性都非常高。"
+  },
+  {
+    "id": 77,
+    "question": "Who exercises the Executive Power in the Republic?",
+    "answer": "The President of the Republic.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "- 首先，问题问到谁在共和国行使行政权力，文本中明确提到是共和国总统。\n- 相关性分数计算方式：答案与问题之间的直接匹配程度，答案中提到的共和国总统在文本中有明确提及，相关性分数为1.0。\n- 准确性分数计算方式：答案是否忠实于文本内容，答案中提到的共和国总统在文本中确实被提及，因此准确性分数为1.0。"
+  },
+  {
+    "id": 78,
+    "question": "在巴西，总统和副总统的选举是在哪些时间进行的？",
+    "answer": "总统和副总统的选举在总统任期结束前一年的10月第一个星期日（第一轮）和最后一个星期日（第二轮）同时举行。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中清晰地提到了总统和副总统的选举时间是在总统任期结束前一年的10月第一个星期日（第一轮）和最后一个星期日（第二轮）同时举行，与文本内容完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 79,
+    "question": "哪些要求必须在国会会议上由巴西共和国总统和副总统宣誓？",
+    "answer": "必须宣誓维护、捍卫和执行宪法，遵守法律，促进巴西人民的普遍福祉，保持巴西的团结、完整和独立。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中的要求完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 80,
+    "question": "在什么情况下，副总统将取代总统？",
+    "answer": "在总统受阻时。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到副总统将取代总统的情况是在总统受阻时，这与文本中的内容完全吻合。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 81,
+    "question": "Who will be called to exercise the Presidency in the event of impediment of the President and Vice-President or vacancy of their offices?",
+    "answer": "The President of the Chamber of Deputies, the President of the Senate, and the Chief Justice of the Supreme Federal Court.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中的内容完全一致，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 82,
+    "question": "What is the timeline for holding elections in the event of a vacancy in the offices of President and Vice-President of the Republic?",
+    "answer": "Elections shall be held ninety days after the occurrence of the last vacancy, unless it happens during the last two years of the President's term, in which case elections will be held thirty days after the last vacancy.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确地回答了问题，并且与文本内容完全相关。根据文本内容，可以明确得出在总统和副总统职位出现空缺时举行选举的时间表。根据文本，如果空缺发生在总统任期的最后两年，选举将在最后一个空缺之后的三十天举行，否则将在最后一个空缺之后的九十天举行。答案准确地回答了问题，并且与文本内容完全一致。"
+  },
+  {
+    "id": 83,
+    "question": "How long is the term of office for the President of the Republic and when does it begin?",
+    "answer": "The term of office for the President of the Republic is four years, and it begins on January 1 of the year following the year of his election.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "- 相关性分数（relevance_score）的计算方式是通过比较问题和答案之间的内容是否一致来确定。在这种情况下，问题问及总统的任期长度和开始时间，而答案中确实提到了总统的任期为四年，且开始于选举年的次年1月1日，因此相关性分数为1。\n- 准确性分数（gpt_confidence_score）的计算方式是通过判断答案是否忠实于文本内容来确定。在这种情况下，答案中的内容与文本中的原文几乎完全一致，没有出现任何错误或误解，因此准确性分数也为1。"
+  },
+  {
+    "id": 84,
+    "question": "Under what circumstances can the President and Vice-President of the Republic leave the country for more than fifteen days?",
+    "answer": "They must obtain authorization from the National Congress.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "The text clearly states that the President and Vice-President of the Republic may not leave the country for more than fifteen days without authorization from the National Congress. The answer provided matches this information accurately and directly, resulting in a high relevance score. Additionally, the answer is a faithful representation of the text, as it accurately reflects the requirement for authorization from the National Congress before leaving the country for an extended period of time. Therefore, the GPT confidence score is also high."
+  },
+  {
+    "id": 85,
+    "question": "根据巴西联邦共和国宪法，总统有哪些独家权力？",
+    "answer": "任命和解雇国务大臣；管理联邦行政；启动立法程序；颁布法律、发布法令和法规；否决法案；制定政府服务组织和运作；维护外交关系；签订国际条约和法令；制定国防和战时状态；颁布和执行联邦干预；发布政府讯息和计划给国会；赦免及减刑；任命高级军官和法官等。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中列举的总统的独家权力与文本中列举的总统的独家权力完全一致，包括任命和解雇国务大臣、管理联邦行政、启动立法程序、颁布法律、发布法令和法规、否决法案、制定政府服务组织和运作、维护外交关系、签订国际条约和法令、制定国防和战时状态、颁布和执行联邦干预、发布政府讯息和计划给国会、赦免及减刑、任命高级军官和法官等。因此，相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 86,
+    "question": "哪些是总统侵犯联邦宪法的犯罪行为？",
+    "answer": "包括威胁联邦实体的存在、影响立法、司法、公诉权和联邦单位的宪法权力自由行使、侵犯政治、个人和社会权利、危害国家内部安全、损害行政廉洁、违反预算法律、不遵守法律和法院裁决。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的内容与文本中列举的总统侵犯联邦宪法的犯罪行为完全一致，包括威胁联邦实体的存在、影响立法、司法、公诉权和联邦单位的宪法权力自由行使、侵犯政治、个人和社会权利、危害国家内部安全、损害行政廉洁、违反预算法律、不遵守法律和法院裁决。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 87,
+    "question": "根据巴西宪法规定，什么情况下总统会被停职？",
+    "answer": "如果两院三分之二的议员支持对总统提起指控，或者在最高法院受理刑事指控，总统将会被停职。",
+    "relevance_score": 0.9,
+    "gpt_confidence_score": 0.9,
+    "calculate_method": "根据文本内容，巴西宪法规定总统会在以下情况下被停职：1. 如果两院三分之二的议员支持对总统提起指控；2. 如果在最高法院受理刑事指控。答案中提到了这两种情况，因此相关性分数和准确性分数都较高。计算方式是根据文本中明确提到的规定，与答案的一致性来评估相关性和准确性。"
+  },
+  {
+    "id": 88,
+    "question": "国务部长必须满足哪些条件？",
+    "answer": "国务部长必须是年满二十一岁的巴西人，并且具有政治权利。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到国务部长必须是年满二十一岁的巴西人，并且具有政治权利，这与文本中提到的国务部长应该是年满二十一岁的巴西人并具有政治权利的要求完全一致。因此，答案与文本内容高度相关且忠实。"
+  },
+  {
+    "id": 89,
+    "question": "根据《宪法》第32号法案，法律将如何处理有关部委和政府机构的创建和废除？",
+    "answer": "法律将规定有关部委和政府机构的创建和废除。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案与文本内容完全一致，且直接回答了问题中提到的法律如何处理有关部委和政府机构的创建和废除的内容。因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 90,
+    "question": "Who are the members of the Council of the Republic?",
+    "answer": "The members of the Council of the Republic include the Vice-President of the Republic, the President of the Chamber of Deputies, the President of the Federal Senate, majority and minority leaders in both chambers, the Minister of Justice, and six born Brazilian citizens.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到的成员包括文本中列出的所有成员，没有遗漏。因此，答案与文本内容高度相关且忠实。相关性分数为1，准确性分数为1。"
+  },
+  {
+    "id": 91,
+    "question": "Council of the Republic有哪些权限可以表达意见？",
+    "answer": "Council of the Republic有权对联邦干预、国防状态和戒严状态以及与民主制度稳定相关的事项表达意见。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确地提到了Council of the Republic有权对联邦干预、国防状态和戒严状态以及与民主制度稳定相关的事项表达意见，与文本中提到的权限完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 92,
+    "question": "什么是国防委员会，它的职责是什么？",
+    "answer": "国防委员会是总统的咨询机构，负责国家主权和民主国家防卫相关事务。其职责包括对声明战争和和平、军事状态的表达意见，提议国家领土安全必需区域的使用条件和标准，研究、提议和监督保障国家独立和民主国家防卫所需的举措。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中准确描述了国防委员会的定义和职责，与文本内容完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 93,
+    "question": "哪些是巴西司法权力机构的主体？",
+    "answer": "巴西司法权力机构的主体包括最高联邦法院、国家司法理事会、上级法院、联邦地区法院和联邦法官、劳动法院和法官、选举法院和法官、军事法院和法官、州、联邦区和领土的法院和法官。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中列举了文本中提到的所有巴西司法权力机构的主体，与文本内容高度相关且准确无误。因此，相关性分数和准确性分数均为1。"
+  },
+  {
+    "id": 94,
+    "question": "根据巴西联邦共和国宪法，法官晋升的条件是什么？",
+    "answer": "根据巴西联邦共和国宪法，法官晋升的条件包括资历和功绩，并且必须满足一定时间和资历要求，以及在评选中表现优异。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "根据文本内容，法官晋升的条件包括资历和功绩，必须满足一定时间和资历要求，以及在评选中表现优异。文本中详细描述了法官晋升的规则，包括根据资历和功绩晋升，必须在相应级别任职两年，并且在资历列表的前五分之一中出现。因此，答案与文本内容高度相关且准确。"
+  },
+  {
+    "id": 95,
+    "question": "谁将占据联邦地区法院、州法院和联邦区以及领土的座位的五分之一？",
+    "answer": "由公诉人员和具有十年以上任职经验、十年以上有效专业活动经历的声誉卓著的律师填补。他们将由各自代表类别的实体提名一个六人名单。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案完全符合文本内容，提供了准确的信息，因此相关性分数和准确性分数都为1。文本中明确提到，联邦地区法院、州法院和联邦区以及领土的座位的五分之一将由公诉人员和具有十年以上任职经验、十年以上有效专业活动经历的声誉卓著的律师填补，他们将由各自代表类别的实体提名一个六人名单。答案准确地回答了问题并提供了相关细节。"
+  },
+  {
+    "id": 96,
+    "question": "哪些保证确保法官的独立性和稳定性？",
+    "answer": "法官享有职务终身保障、不可调离除公共利益外的其他原因、工资不可降低等保障。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了法官享有的保障，包括职务终身保障、不可调离除公共利益外的其他原因、工资不可降低等。这些保障确保了法官的独立性和稳定性。因为答案完全符合文本内容，所以相关性分数和准确性分数都是1。"
+  },
+  {
+    "id": 97,
+    "question": "哪些机构拥有选举自己的指导机构和制定内部规定的独占权力？",
+    "answer": "法院。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到法院拥有选举自己的指导机构和制定内部规定的独占权力，而在文本中也明确提到了这一点，因此答案与文本内容高度相关且忠实。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 98,
+    "question": "在什么情况下法院可以宣布一项法律或政府的规范行为违宪？",
+    "answer": "只有在其成员的绝对多数或相应特殊机构的成员投票通过时。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中直接引用了文本中的内容，与问题的要求完全吻合，因此相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 99,
+    "question": "谁将创建特别法院和报酬的和平司法？",
+    "answer": "联邦领域和联邦法院将创建特别法院和报酬的和平司法。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中明确提到了联邦领域和联邦法院将创建特别法院和报酬的和平司法，与文本内容完全一致。因此，相关性分数和准确性分数都为1。"
+  },
+  {
+    "id": 100,
+    "question": "谁确保了司法权的行政和财政自治？",
+    "answer": "根据《巴西联邦共和国宪法》第45条，司法权的行政和财政自治是由司法权本身来确保的。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案直接引用了文本中的内容，对问题的回答非常相关且准确。"
+  },
+  {
+    "id": 101,
+    "question": "根据所述规定，支持相关债务的优先支付顺序是如何规定的？",
+    "answer": "支持相关债务将在任何其他债务之前支付，除非涉及本条款第2款所述情况。",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "根据文本内容，支持相关债务的支付顺序在第1段和第2段中有详细规定，确实是在任何其他债务之前支付，除非涉及第2段所述的特定情况。因此，答案与文本内容高度相关且准确。"
+  },
+  {
+    "id": 102,
+    "question": "How are the Justices of the Supreme Federal Court appointed?",
+    "answer": "The Justices of the Supreme Federal Court are appointed by the President of the Republic, after their nomination has been approved by the absolute majority of the Federal Senate.",
+    "relevance_score": 1.0,
+    "gpt_confidence_score": 1.0,
+    "calculate_method": "答案中提到了文本中的内容，与问题完全相关且忠实。答案中明确指出了最高联邦法院法官是由共和国总统任命，并在联邦参议院的绝对多数批准提名后任命。这与文本中提到的内容完全一致，因此相关性分数和准确性分数都为1。"
+  }
+]

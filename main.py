@@ -19,8 +19,8 @@ genai.configure(api_key=f"{GOOGLE_API_KEY}", transport="rest")
 model = genai.GenerativeModel('gemini-2.0-flash-001')
 
 # --------------------------------------------------OpenAI配置-------------------------------------------------------
-evaluate_client = OpenAI(api_key="sk-8oEJgR1y62xlvgfaE02eC06a7eDf4cA681D520F61fA6603d", base_url="https://openkey.cloud/v1")
-generate_client = OpenAI(api_key="sk-LEMy7rhf94VbJsAZB42c1174E5334aE8A4Bc90450e4c5954", base_url="https://openkey.cloud/v1")
+evaluate_client = OpenAI(api_key="key_2", base_url="https://openkey.cloud/v1")
+generate_client = OpenAI(api_key="key_2", base_url="https://openkey.cloud/v1")
 
 # -------------------------------------------------文档路径--------------------------------------------------------------
 root_path = os.getcwd()

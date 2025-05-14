@@ -59,7 +59,7 @@ def judge_qa_from_text(text_block, qa_pair, model="gpt-3.5-turbo", client=None):
 
 
 if __name__ == '__main__':
-    i_client = OpenAI(api_key="sk-8oEJgR1y62xlvgfaE02eC06a7eDf4cA681D520F61fA6603d", base_url="https://openkey.cloud/v1")
+    i_client = OpenAI(api_key="key", base_url="https://openkey.cloud/v1")
     # completion = client.chat.completions.create(
     #     model="gpt-3.5-turbo",
     #     stream=False,
